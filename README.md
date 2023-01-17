@@ -1,6 +1,8 @@
 ## Gnome Dash to Dock Custom like macos
 <img src="https://cdn.discordapp.com/attachments/471668354260926464/1064824747713626224/image.png">
-This my Custom DashtoDock 
+
+#### This my Custom DashtoDock
+
 - Custom floating
 - Custom border
 - Custom buttom padding
